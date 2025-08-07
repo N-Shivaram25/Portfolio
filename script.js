@@ -24,10 +24,10 @@ document.addEventListener('DOMContentLoaded', function() {
     // Typing Animation
     const typedTextElement = document.getElementById('typed-text');
     const textArray = [
-        "Hello, I'm Shivaram Naradashi",
+        "Hello, I'm Naradashi Shiva Ram",
         "I'm a Full Stack Developer",
-        "I create amazing web experiences",
-        "Let's build something together"
+        "I'm an Aspiring Graphics Designer",
+        "Let's create something amazing together"
     ];
     
     let textIndex = 0;
@@ -190,9 +190,9 @@ document.addEventListener('DOMContentLoaded', function() {
 
     window.addEventListener('scroll', animateSkillBars);
 
-    // Portfolio Filter
+    // Project Filter
     const filterButtons = document.querySelectorAll('.filter-btn');
-    const portfolioItems = document.querySelectorAll('.portfolio-item');
+    const projectItems = document.querySelectorAll('.project-item');
 
     filterButtons.forEach(btn => {
         btn.addEventListener('click', function() {
@@ -203,7 +203,7 @@ document.addEventListener('DOMContentLoaded', function() {
             
             const filterValue = this.getAttribute('data-filter');
             
-            portfolioItems.forEach(item => {
+            projectItems.forEach(item => {
                 if (filterValue === 'all' || item.getAttribute('data-category') === filterValue) {
                     item.style.display = 'block';
                     // Add animation
