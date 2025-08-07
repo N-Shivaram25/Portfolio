@@ -1,0 +1,122 @@
+Build a complete, responsive personal portfolio website for:
+
+Name: Naradashi Shiva Ram
+Role: Full Stack Developer & Aspiring Graphics Designer
+Location: Hyderabad
+LinkedIn: https://www.linkedin.com/in/shivaram-naradashi-0442b32aa/
+Resume Link (Google Drive): Add a placeholder for now.
+
+🌐 Structure & Features (to be implemented):
+1. Home Section
+Typing animation:
+
+“Hello, I'm Naradashi Shiva Ram”
+
+“I’m a Full Stack Developer & Graphics Designer”
+
+Profile image (provided):
+
+No circle borders or rings
+
+Use a modern glowing glassmorphism-style card layout for the image
+
+Two buttons:
+
+Hire Me (scroll to Contact section)
+
+Download CV (opens Google Drive link in a new tab)
+
+Social Icons: LinkedIn, GitHub, Email (with hover glow)
+
+2. About Section
+A short bio paragraph.
+
+Education Timeline:
+
+ACE Engineering College – B.Tech CS, CGPA: 8.44
+
+Sri Chaitanya – Inter, 92%
+
+SSC – 100%
+
+3. Skills Section
+Use animated progress bars or cards for:
+HTML, CSS, JavaScript, React.js, MongoDB, GitHub, Java, MySQL, Bootstrap, Tailwind CSS, Next.js, C, TypeScript, API Integration
+
+4. Work Experience Section (Separate)
+SEL Team – ACE Engineering College (May 2025 - Present)
+
+Git Automation, Clone Projects: Amazon, Netflix, YouTube
+
+Plasmid Company (Virtual Internship) (March 2024 - Sept 2024)
+
+Portfolio, Rock Paper Scissors, Contact/About/Login Pages
+
+5. Projects Section
+Title: My Projects with a glowing underline
+
+Buttons for filtering by domain:
+
+Web Development, AI, Backend, Design
+
+Each project card:
+
+Cover Image
+
+On hover, show two buttons:
+
+GitHub icon → opens GitHub repo
+
+Link icon → opens deployed site
+
+Add these projects:
+
+Sound Pix – Audio to Image using AI (React.js)
+
+Amazon Clone – HTML, CSS, JS
+
+YouTube Clone – MongoDB, HTML, CSS
+
+Musical Saga – MongoDB, Azure, DevOps
+
+E-Commerce Website – Java, Spring Boot, JSP
+
+Signup/Login – PHP + MySQL
+
+Tic Tac Toe, Calculator, To-do App
+
+6. Certifications Section (Optional if space permits)
+AWS Cloud Foundations
+
+MePro English Proficiency – Level 10
+
+Cisco Programming Essentials (C, Python, IT)
+
+7. Contact Section
+Form with fields: Name, Email, Message
+
+Icons: Mail, Location, Phone
+
+Submit button with glowing hover
+
+8. UI/UX & Animations
+Theme: Futuristic dark mode with electric blue/purple highlights
+
+Use typed.js for typing effect
+
+Use AOS.js or GSAP for scroll-based animations
+
+Sticky header with animated hover nav links
+
+Mobile-friendly, with a hamburger menu
+
+9. Files & Structure
+bash
+Copy
+Edit
+/index.html
+/style.css
+/script.js
+/assets/images/ (profile photo, project covers)
+/assets/fonts/
+/assets/icons/
