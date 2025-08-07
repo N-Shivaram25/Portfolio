@@ -1,0 +1,88 @@
+"Create a complete modern 3D animated personal portfolio website using HTML, CSS, and JavaScript. The design should closely follow a glowing dark theme similar to futuristic developer portfolios. Use the name Shivaram Naradashi and profession Full Stack Developer with a typing animation on the home screen. The layout should include the following sections in a sticky navigation bar: Home, About, Skills, Services, Portfolio, Contact.
+
+Key Requirements:
+Home Section:
+
+3D glowing circular profile image frame with hover effect.
+
+Typing animation: "Hello, I'm Shivaram Naradashi" and "I'm a Full Stack Developer".
+
+Two call-to-action buttons: Hire Me and Contact Me, with glowing hover effect.
+
+Social media icons with smooth hover transitions.
+
+Animated counters (e.g., 10+ Projects, 30+ Clients, etc.)
+
+About Section:
+
+Professional short bio.
+
+Timeline or card layout for education & experience.
+
+Profile image reused with subtle entrance animation.
+
+Skills Section:
+
+Animated skill bars or circular progress for key technologies (HTML, CSS, JS, React, Node.js, etc.)
+
+3D hover cards or skill icons with glowing borders.
+
+Services Section:
+
+Grid layout of services with hover zoom & glow effects.
+
+Portfolio Section:
+
+Filterable project gallery.
+
+Modal popups to view project details.
+
+Contact Section:
+
+Stylish contact form with input focus animation.
+
+Location, email, and phone icon cards.
+
+Navbar:
+
+Sticky, semi-transparent navbar with hover underline animation.
+
+Animations:
+
+Use GSAP or AOS for smooth scroll-based animations.
+
+Buttons with hover ripple or pulse effects.
+
+Use typed.js for typing effect in hero section.
+
+Styling:
+
+Use modern fonts like "Poppins" or "Montserrat".
+
+Neon/glow theme: Dark blue background, electric blue and pink accents.
+
+CSS variables for theme color management.
+
+Responsive Design:
+
+Fully responsive for desktop, tablet, and mobile.
+
+Hamburger menu for smaller screens.
+
+Extras:
+
+“Download CV” button in the top-right corner with icon.
+
+Smooth scroll between sections.
+
+Scroll-to-top button.
+
+Please provide:
+
+Modular code split into multiple files: index.html, style.css, script.js.
+
+Add comments throughout for clarity.
+
+Use best practices for accessibility and performance.
+
+Include CDN links for Font Awesome, Google Fonts, AOS, and typed.js.
